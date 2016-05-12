@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Money records</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="main_titel">Money records</string>
+    <string name="menu_setting">Settings</string>
+    <string name="title_activity_list">List Activity</string>
+    <string name="add_button">เพิ่มรายการ</string>
+    <string name="list_title">รายการ</string>
+    <string name="prize">จำนวนเงิน : </string>
+    <string name="list">ชื่อรายการ : </string>
+    <string name="save">บันทึก</string>
+</resources>

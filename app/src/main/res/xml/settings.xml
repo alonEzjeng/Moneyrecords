@@ -1,0 +1,8 @@
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <CheckBoxPreference
+        android:defaultValue="true"
+        android:key="add"
+        android:summary="@string/add_button"
+        android:title="@string/add_button"/>
+
+</PreferenceScreen>
